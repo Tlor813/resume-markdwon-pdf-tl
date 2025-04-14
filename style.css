@@ -1,5 +1,31 @@
 /* Your Styles */
-
+p{
+    font-family: 'Nunito', sans-serif;
+     
+   }
+   
+   body{
+     font-family: 'Bebas Neue', sans-serif;
+     align-content: center;
+     margin: 100px
+   }
+   
+   
+   h3{
+     color: blue;
+   }
+   
+   hr{
+     
+     color: blue;
+        height: 12px;
+       border: 0;
+       box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+   }
+   
+   h1{
+     font-size: 50px
+   }
 
 /* Print Styling */
 @media print {
